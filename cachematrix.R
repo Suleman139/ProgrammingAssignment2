@@ -3,8 +3,8 @@
 
 ## The first function, makeCacheMatrix creates a special "matrix", 
 ## which is really a list containing a function to:
-## 1)set the value of the matrix (set_matrix)
-## 2)get the value of the matrix (get_matrix)
+## 1)set the value of the matrix (set)
+## 2)get the value of the matrix (get)
 ## 3)set the value of the inverse (set_inverse)
 ## 4)get the value of the inverse (get_inverse)
 
